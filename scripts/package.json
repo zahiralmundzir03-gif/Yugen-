@@ -1,0 +1,9 @@
+{
+  "name": "yugen-nexus-cloud",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Yugen Nexus with Supabase cloud authentication and realtime profiles",
+  "scripts": {
+    "check": "node --check scripts/check-inline.js"
+  }
+}
