@@ -3,6 +3,6 @@
  * JANGAN masukkan service_role key atau secret key ke file frontend ini.
  */
 window.YN_SUPABASE_CONFIG = {
-  url: "YOUR_SUPABASE_PROJECT_URL",
-  anonKey: "YOUR_SUPABASE_ANON_KEY"
+  url: "https://edlwhlyocptlyomxiqte.supabase.co",
+  anonKey: "sb_publishable_zlew3oJJWPflAO-KARnnjw_iPdg1b2v"
 };
