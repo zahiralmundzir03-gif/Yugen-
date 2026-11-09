@@ -1,0 +1,6 @@
+Build target: Netlify static site + Supabase Auth/Postgres/Realtime
+Frontend source: user-provided yugenv2(Copy).html
+Default deploy publish directory: public
+Database migration: supabase/migrations/001_initial_schema.sql
+Required manual setup: public/supabase-config.js + Supabase dashboard settings
+No production credentials or default admin account are included.
